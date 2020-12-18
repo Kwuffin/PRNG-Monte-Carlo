@@ -23,7 +23,7 @@ lcg.py contains my Linear Congruential Generator.
 https://people.engr.ncsu.edu/hp/files/simulation.pdf
 
 
-#####Linear Congruential Generator:
+##### Linear Congruential Generator:
 https://en.wikipedia.org/wiki/Linear_congruential_generator 
 
 https://www.youtube.com/watch?v=PtEivGPxwAI&ab_channel=EddieWoo
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=PtEivGPxwAI&ab_channel=EddieWoo
 https://www.youtube.com/watch?v=C82JyCmtKWg&feature=emb_title&ab_channel=PBSInfiniteSeries
 
 
-#####Monte Carlo Simulations:
+##### Monte Carlo Simulations:
 https://www.youtube.com/watch?v=7ESK5SaP-bc&feature=emb_logo&ab_channel=MarbleScience
 
 
